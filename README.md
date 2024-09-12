@@ -1,2 +1,2 @@
-# Machine Learning Zoomcamp 2024
-Machine Learning Zoomcamp 2024
+# MACHINE LEARNING ZOOMCAMP 2024
+## September
